@@ -140,8 +140,9 @@ p {
   height: 100%;
   padding: 0 2rem;
   position: absolute;
-  top:60px;
+  top:65px;
   left: 0;
+  bottom: 0;
   background-color: rgba(0,0,0,0.5);
 }
 
